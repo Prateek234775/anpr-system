@@ -1,0 +1,12 @@
+2026-09-18 15:16:17,595 | INFO     | anpr.database | Database ready at C:\Users\HP\AppData\Local\Temp\tmp2jlktq8t.db
+2026-09-18 15:16:17,608 | INFO     | anpr.database | Stored detection #1: MP09AB1234
+2026-09-18 15:16:17,625 | INFO     | anpr.database | Database ready at C:\Users\HP\AppData\Local\Temp\tmpjzv1wbws.db
+2026-09-18 15:16:17,636 | INFO     | anpr.database | Stored detection #1: MP09AB1234
+2026-09-18 15:16:17,654 | INFO     | anpr.database | Database ready at C:\Users\HP\AppData\Local\Temp\tmpp71womnu.db
+2026-09-18 15:16:17,666 | INFO     | anpr.database | Stored detection #1: DL5CAB9999
+2026-09-18 15:16:17,676 | INFO     | anpr.database | Exported 1 record(s) to C:\Users\HP\AppData\Local\Temp\tmpewnkvqs9\out.csv
+2026-09-18 15:16:18,454 | INFO     | anpr.plate_detector | Plate detector initialised with cascade: C:\Users\HP\Downloads\files\anpr-system\anpr-system\venv\Lib\site-packages\cv2\data\haarcascade_russian_plate_number.xml
+2026-09-18 15:16:18,468 | INFO     | anpr.plate_detector | Plate detector initialised with cascade: C:\Users\HP\Downloads\files\anpr-system\anpr-system\venv\Lib\site-packages\cv2\data\haarcascade_russian_plate_number.xml
+2026-09-18 15:16:18,477 | INFO     | anpr.plate_detector | Plate detector initialised with cascade: C:\Users\HP\Downloads\files\anpr-system\anpr-system\venv\Lib\site-packages\cv2\data\haarcascade_russian_plate_number.xml
+2026-09-18 15:16:21,318 | INFO     | anpr.plate_detector | Detected 0 plate candidate(s) in frame
+2026-09-18 15:16:21,733 | DEBUG    | anpr.preprocessing | Preprocessing plate crop of shape (60, 200, 3)
